@@ -12,7 +12,7 @@ The build process is not changed. To only compile the AVR32 target do:
 
 .. code-block:: shell
 
-  ./configure --target-list=avr32-softmmu
+  ./configure --target-list=nxp-softmmu
   make -j 16
 
 Additional information can also be found online via the QEMU website:
